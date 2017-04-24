@@ -10,4 +10,4 @@ They are written in the .tex [template](https://www.cs.cmu.edu/~ggordon/10725-F1
 4. Algorithms for DNA Sequencing
 5. Command Line Tools for Genomic Data Science
 6. Bioconductor for Genomic Data Science
-7. Statistics for Genomic Data Science
+7. [Statistics for Genomic Data Science](https://github.com/crahal/Learning-Socio-Genomics/tree/master/Genomic%20Data%20Science/Statistics%20for%20Genomic%20Data%20Science)
