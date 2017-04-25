@@ -4,7 +4,7 @@ A set of lecture notes, notebooks, functions (mostly Python and R) and methologi
 
 1. A [glossary](https://github.com/crahal/Learning-Socio-Genomics/tree/master/Glossary) of commonly used terms which may be useful for non-geneticists coming towards this discipline.
 
-2. [A set of notes](https://github.com/crahal/Learning-Socio-Genomics/tree/master/Genomic%20Data%20Science) relating to the (mostly) excellent [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science) specialisation on Coursera.
+2. [A set of notes](https://github.com/crahal/Learning-Socio-Genomics/tree/master/Genomic%20Data%20Science) relating to the [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science) specialisation on Coursera.
 
 3. A [set of notes](https://github.com/crahal/Learning-Socio-Genomics/tree/master/Summer%20Institute%20in%20Social-Science%20Genomics) related to the recent [Summer Institute in
 Social-Science Genomics](https://www.rsfgenomicsschool.com/materials).
