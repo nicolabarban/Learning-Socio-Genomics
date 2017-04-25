@@ -6,8 +6,8 @@ The notes are written in the .tex [template](https://www.cs.cmu.edu/~ggordon/107
 
 1. [Introduction to Genomic Technologies](https://www.coursera.org/learn/introduction-genomics)
 2. [Genomic Data Science with Galaxy](https://www.coursera.org/learn/galaxy-project)
-3. Python for Genomic Data Science
-4. Algorithms for DNA Sequencing
+3. [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
+4. [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
 5. Command Line Tools for Genomic Data Science
 6. Bioconductor for Genomic Data Science
 7. [Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics)
