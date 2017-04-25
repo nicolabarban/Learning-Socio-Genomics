@@ -1,6 +1,6 @@
 ## [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)
 
-This is a set of notes relating to the [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science) specialisation on Coursera. If you are considering taking just one or two of these modules, the [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing) module is **especially** good (and don't expect to have an easy time completing the Genomic Data Science with Galaxy project with just the training given in the lectures).
+This is a set of notes relating to the [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science) specialisation on Coursera. If you are considering taking just one or two of these modules, the [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing) module is **especially** good (don't expect to have an easy time completing the Genomic Data Science with Galaxy project with just the training given in the lectures).
 
 The notes are written in the .tex [template](https://www.cs.cmu.edu/~ggordon/10725-F12/template.tex) borrowed from CS267, Applications of Parallel Computing at the UCBerkeley EECS Department with code syntax highlighting from [minted](https://github.com/gpoore/minted) and compiled with XeLateX. There are also some (hopefully) functions written in Python and R related to this specialization. The courses are:
 
