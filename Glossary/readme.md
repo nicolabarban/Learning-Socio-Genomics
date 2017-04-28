@@ -1,6 +1,6 @@
 ## Glossary
 
-This is a glossary of the most commonly used terms in (socio-)genomics, written in .md. Primary sources: [genome.gov](https://www.genome.gov/).
+This is a glossary of the most commonly used terms in (socio-)genomics. Primary sources: [genome.gov](https://www.genome.gov/).
 
 **[Allele:](https://www.genome.gov/glossary/index.cfm?id=4&textonly=true)** An allele is one of two or more versions of a gene. An individual inherits two alleles for each gene, one from each parent. If the two alleles are the same, the individual is homozygous for that gene. If the alleles are different, the individual is heterozygous.
 
