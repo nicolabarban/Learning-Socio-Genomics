@@ -13,4 +13,6 @@ Social-Science Genomics](https://www.rsfgenomicsschool.com/materials).
 
 5. A [set of notes](https://github.com/crahal/Learning-Socio-Genomics/tree/master/PGS) specifically relating to polygenic scores (PGS) and their construction.
 
+6. A [list of useful softwares](https://github.com/crahal/Learning-Socio-Genomics/tree/master/Useful%20Software) to reduce the programming burdens.
+
 Please feel free to submit requests to fix any notable errors - this work is ongoing and to be constantly updated!
